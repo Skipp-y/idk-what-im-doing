@@ -9,7 +9,6 @@ public class Assignment1A {
         int blue;
         int blueinverted;
 
-
         Scanner scan = new Scanner (System.in);
         System.out.print ("Enter your red value between 0-255: ");
         red = scan.nextInt(); //Number user enters
